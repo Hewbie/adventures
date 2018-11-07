@@ -1,3 +1,35 @@
 // Place all the styles related to the Welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.title-bar {
+	display: inline-block;
+	background-color: #FCBA12;
+	color: #A77802;
+	font-size: 40px;
+	padding-bottom: 25px;
+	line-height: 80px;
+}
+.column {
+	width: 40%;
+	height: 100px;
+	display: inline-block;
+	background-color: #FFF5DC;
+	margin-top: 20px;
+}
+
+p {
+	font-size: 20px;
+	color: #342809;
+}
+
+ul {
+	list-style-type: none;
+	background-color: #FFF5DC;
+	font-size: 20px;
+	padding: 10px;
+}
+
+li {
+	margin-bottom: 5px;
+}
