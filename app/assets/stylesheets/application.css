@@ -34,7 +34,7 @@ table a {
 .heading {
 	display: inline-block;
 	background-color: #FCBA12;
-	color: #A77802;
+	color: #342809;
 	font-size: 32px;
 	margin-bottom: 20px;
 	line-height: 80px;
@@ -46,4 +46,11 @@ table {
 	width: 100%;
 	font-size: 20px;
 	padding: 20px;
+}
+.button {
+	margin: 20px;
+	background-color: #342809;
+}
+.button a {
+	color: #FCBA12;
 }
